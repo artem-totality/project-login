@@ -1,5 +1,5 @@
 .login-page-wrapp {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .login-form-wrap {
